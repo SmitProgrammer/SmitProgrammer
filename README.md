@@ -15,7 +15,7 @@
 
 
 ![SmitProgrammer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmitProgrammer&theme=vue-dark&hide_border=true)
-![SmitProgrammer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitProgrammer&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![SmitProgrammer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitProgrammer&theme=vue-dark&show_icons=true&hide_border=true&layout=donut)
 
 
 ###
