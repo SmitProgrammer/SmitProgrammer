@@ -15,7 +15,7 @@
 
 <div align="center">
   ![SmitProgrammer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmitProgrammer&theme=vue-dark&hide_border=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SmitProgrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  ![SmitProgrammer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitProgrammer&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ###
