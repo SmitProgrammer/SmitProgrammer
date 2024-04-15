@@ -11,73 +11,68 @@
 
 ## :hammer_and_wrench: Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
- <h3 align="center"> Programming </h3>
-      
-   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/undefined/c-programming.png"/></a>
-   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/></a>
-   <a href="https://www.python.org/"><img src="https://img.icons8.com/fluency/48/undefined/python.png"/></a>
-   <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/100/undefined/bash.png" width="12%"/></a>
+###
 
-     
-<h3 align="center"> Web Development </h3>
-     
- <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/></a>
- <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/undefined/css3.png"/></a>
- <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/></a>
- <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/undefined/django.png"/></a>
- <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/></a>
- <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/undefined/react-native.png"/></a>
- <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
- <br />
- <a href="https://flask.palletsprojects.com/en/2.3.x/"><img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/flask.png" alt="flask" /></a>
- <a href="https://fastapi.tiangolo.com/lo/"><img width="45" height="45" src="https://github.com/PritamSarbajna/PritamSarbajna/assets/90236635/1bdf48d6-08c3-411e-af8c-80310596f131" /></a>
-  <a href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SmitProgrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SmitProgrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
- <h3 align="center"> Tools </h3>
-     
- <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio.png"/></a>
- <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/48/undefined/pycharm.png"/></a>
- <a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/></a>
- <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/></a>
+###
 
-</td>
-   
-<td width="50%" valign="top"> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/towergit/towergit-original.svg" height="30" alt="towergit logo"  />
+</div>
 
-<h3 align="center"> Android development </h3>
-  
-  <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/></a>
-  <a href="https://en.wikipedia.org/wiki/XML"><img src="https://img.icons8.com/external-fauzidea-flat-fauzidea/64/undefined/external-xml-file-file-extension-fauzidea-flat-fauzidea.png" width="10%"/></a>
+###
 
-  
-<h3 align="center"> Database </h3>
+<div align="left">
+  <a href="https://www.instagram.com/smit.explorer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:techsmitdevloper@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/smit-talsaniya-205334238/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B919106626802&text&type=phone_number" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="10%"/></a>     <a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-  <a href="https://www.mysql.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/></a>
-     
-<h3 align="center"> OS </h3>
+###
 
-  <a href="https://www.microsoft.com/en-in/"><img src="https://img.icons8.com/color/48/undefined/windows-logo.png"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
- 
-![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
-</td>
-</tr>
+<br clear="both">
 
-</table>
+<img src="https://raw.githubusercontent.com/SmitProgrammer/SmitProgrammer/output/snake.svg" alt="Snake animation" />
 
-## :computer: Open Source Contributions
-
-
-## :trophy: GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SmitProgrammer?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SmitProgrammer&theme=tokyonight_duo">
-
-## :phone: Contact
-  <a href="https://www.linkedin.com/in/pritam-sarbajna-74945821b/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
+###
