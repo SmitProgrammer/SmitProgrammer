@@ -73,29 +73,7 @@
 
 ## :computer: Open Source Contributions
 
-<details>
-<summary>Click me</summary>
 
-
-  | Repositories name  | Contribution                    | Links                                                                 |
-  |--------------------|---------------------------------|-----------------------------------------------------------------------|
-  | JavaScript-Projects | Created UI for weather website       | https://github.com/Shweta2024/JavaScript-Projects/pull/55#issuecomment-1345544774 |
-  | CodeChamp-s-Website | fixed links are opening in same tab        | https://github.com/DeveloperAshish8/CodeChamp-s-Website/pull/3 |
-  | website | fixed navbar issue        | https://github.com/BugBustersCommunity/website/pull/60 |
-  | seamless-ui | Customized the scrollbar of the official website    | https://github.com/Clueless-Community/seamless-ui/pull/2243 |
-  | developer-portfolios | fixed UI bug        | https://github.com/opensourcecommunity-hub/developer-portfolios/pull/32 |
-  | Website | fixed scrollbar issue of [novu.co](https://novu.co/)           | https://github.com/novuhq/website/pull/22 |
-  | Portfolio | fixed heading problem for smalling screens             | https://github.com/schmelto/Portfolio/pull/218 |
-  | CodeHelp-DSA-Busted-Series | finished incomplete code   | https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/306 |
-  | tools | fixed a code bug              | https://github.com/nf-core/tools/pull/1649 |
-  | awesome-github-profile-readme    | added a profile                    | https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/841  |
-  | LinkFree     | added my profile in a json file                   | https://github.com/EddieHubCommunity/LinkFree/pull/1598  |
-  | Atelas-Esports-Website | added preview of the website              | https://github.com/Susmita-Dey/Atelas-Esports-Website/pull/3 |
-  | hacktober-practice | added my github username               | https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1115 |
-  | OpenQ-TestRepo     | added a word                    | https://github.com/OpenQDev/OpenQ-TestRepo/pull/354#issue-1268472423  |
-  | LinkFree           | made changes to CONTRIBUTING.md | https://github.com/EddieHubCommunity/LinkFree/pull/1387               |
-</details>
-  
 ## :trophy: GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SmitProgrammer?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
